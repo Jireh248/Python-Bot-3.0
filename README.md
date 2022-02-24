@@ -1,5 +1,5 @@
 # Python-Bot-3.0
-This is a bot that will take and store the users input, then evaluate the information to output it into a neat and organized table for the user to view
+#This is a bot that will take and store the users input, then evaluate the information to output it into a neat and organized table for the user to view
 
 print("---------------------------------------------------------------------------------")
 
